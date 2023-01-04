@@ -1,20 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="M+ #0 HD", [ ESP] #0
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 1080 (Opcion 1)
-acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 1080 (Opcion 2)
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 720
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" , [ ESP] La Liga Tv Bar - 1080
-
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 720" , [ ESP] La Liga Tv Bar - 720
 acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
 

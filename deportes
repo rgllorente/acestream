@@ -102,8 +102,14 @@ Acestream://
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" group-title="Dazn" tvg-id="DAZN 4 1080", DAZN 4 - 1080
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" group-title="Dazn" tvg-id="DAZN 4 720", DAZN 4 - 720
-Acestream://
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/f1.png" group-title="Dazn" tvg-id="DAZN F1 1080 (1)", DAZN F1 - 1080 (1)
+acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/f1.png" group-title="Dazn" tvg-id="DAZN F1 1080 (2)", DAZN F1 - 1080 (2)
+acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/f1.png" group-title="Dazn" tvg-id="DAZN F1 720", DAZN F1 - 720
+acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="M+ Deportes" tvg-id="M+DEPORTESHD 1080", M+ Deportes - 1080 (Opcion 1)
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0

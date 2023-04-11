@@ -111,6 +111,12 @@ acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/f1.png" group-title="Dazn" tvg-id="DAZN F1 720", DAZN F1 - 720
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="#Vamos" tvg-id="#Vamos", #Vamos
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="#0" tvg-id="#0", #0
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="M+ Deportes" tvg-id="M+DEPORTESHD 1080", M+ Deportes - 1080 (Opcion 1)
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 

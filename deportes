@@ -195,14 +195,8 @@ acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm3.png" group-title="La Liga" tvg-id="Liga Smartbank M3 720", Liga Smartbank M3 - 720
 acestream://1000c018cf4afb7357f10e438e966d23340e4295
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1 1080", Eurosport 1 - 1080
-acestream://40da37534656efcc6179c1b7693335d5e8212e43
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1 720", Eurosport 1 - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1", Eurosport 1
 acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2 1080", Eurosport 2 - 1080
-acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2 720", Eurosport 2 - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2", Eurosport 2
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01

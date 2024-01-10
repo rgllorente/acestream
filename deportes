@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Movistar_Plus%2B_Supercopa_de_Espa%C3%B1a_logo_2023.png" group-title="Movistar Copa" tvg-id="Movistar Copa", Movistar Copa
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD 1080 1", La Liga - 1080 1
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 

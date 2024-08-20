@@ -3,23 +3,26 @@
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/supercopaeuropa.png" group-title="Movistar Copa" tvg-id="Movistar Copa", Movistar Copa
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/movistarplus.png" group-title="Movistar Plus" tvg-id="Movistar Plus", Movistar Plus
-acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga 4K", La Liga - 4K
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rfef1.png" group-title="RFEF" tvg-id="RFEF", RFEF
-acestream://8552d0ab6ca31e07a2de46f2d7ff1c546212dc2b
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD 1080 1", La Liga - 1080 1
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD 1080 2", La Liga - 1080 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga 1080p", La Liga - 1080p
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD 1080 3", La Liga - 1080 3
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga MultiAudio", La Liga - MultiAudio
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga MultiAudio 2", La Liga - MultiAudio 2
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD 720", La Liga - 720
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga 2 1080p", La Liga 2 - 1080p
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga 2 720p", La Liga 2 - 720p
+acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 1080 1", Liga de Campeones - 1080 1
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
@@ -32,9 +35,6 @@ acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD 1080 2", DAZN LaLiga - 1080 2
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD 1080 3", DAZN LaLiga - 1080 3
-acestream://95b2238dec35cf00dfdf8fba18e9920bc2c56256
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD 720", DAZN LaLiga - 720 
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
@@ -98,3 +98,12 @@ acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2", Eurosport 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
+
+EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es3.png" group-title="Varios" tvg-id="Eurosport 3", Eurosport 3
+acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
+
+EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es4.png" group-title="Varios" tvg-id="Eurosport 4", Eurosport 4
+acestream://76a482a4cb53fc28518187c6b814f136b3db3c95
+
+EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es5.png" group-title="Varios" tvg-id="Eurosport 5", Eurosport 5
+acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40

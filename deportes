@@ -93,29 +93,29 @@ acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laliga2_2023.png" group-title="La Liga Hypermotion 2" tvg-id="La Liga Hypermotion 2 720", La Liga Hypermotion 2 720
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1", Eurosport 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Eurosport" tvg-id="Eurosport 1", Eurosport 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2", Eurosport 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Eurosport" tvg-id="Eurosport 2", Eurosport 2
 acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es3.png" group-title="Varios" tvg-id="Eurosport 3", Eurosport 3
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es3.png" group-title="Eurosport" tvg-id="Eurosport 3", Eurosport 3
 acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es4.png" group-title="Varios" tvg-id="Eurosport 4", Eurosport 4
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es4.png" group-title="Eurosport" tvg-id="Eurosport 4", Eurosport 4
 acestream://76a482a4cb53fc28518187c6b814f136b3db3c95
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es5.png" group-title="Varios" tvg-id="Eurosport 5", Eurosport 5
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es5.png" group-title="Eurosport" tvg-id="Eurosport 5", Eurosport 5
 acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/etb1.png" group-title="Varios" tvg-id="ETB1", ETB1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/etb1.png" group-title="ETB" tvg-id="ETB1", ETB1
 acestream://2bac673f7fc25abda5f902850ce9f8c04a2b2056
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/etb2.png" group-title="Varios" tvg-id="ETB2", ETB2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/etb2.png" group-title="ETB" tvg-id="ETB2", ETB2
 acestream://621f7215bb1f5593aa118e8540a1bb3aac11ffe4
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/etb.png" group-title="Varios" tvg-id="ETB Deportes", ETB Deportes
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/etb.png" group-title="ETB" tvg-id="ETB Deportes", ETB Deportes
 acestream://5228b40ae1e45c02ee815e82586641eec40a7b81
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/eitb.png" group-title="Varios" tvg-id="EITB", EITB
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/eitb.png" group-title="ETB" tvg-id="EITB", EITB
 acestream://cdc34a0cba178d78af926acaa7f1a511e7d071e7
